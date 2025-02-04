@@ -32,7 +32,7 @@ export default function Body() {
         >
           <Experience title={"1"} about={"Years of Experience"} />
           <Experience title={"40"} about={"hours of working"} />
-          <Experience title={"16"} about={"projects done"} />
+          <Experience title={"7"} about={"projects done"} />
         </Flex>
       </Box>
       <ResumeEducation />
