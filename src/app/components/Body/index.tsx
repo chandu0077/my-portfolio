@@ -30,7 +30,7 @@ export default function Body() {
           justifyContent={"start"}
           gap={{ base: 4, xl: "32" }}
         >
-          <Experience title={"10"} about={"Months of Experience"} />
+          <Experience title={"1"} about={"Years of Experience"} />
           <Experience title={"40"} about={"hours of working"} />
           <Experience title={"16"} about={"projects done"} />
         </Flex>
