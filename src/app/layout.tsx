@@ -10,16 +10,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Avinash's Portfolio</title>
+        <title>Chandu's Portfolio</title>
         <meta
           name="description"
-          content="Avinash is an experienced software engineer building scalable systems on
-        backend, developing high performant UI on frontend. Open Source
-        contributor, Avid learner, Tech blogger actively giving back to
-        community"
+          content="Chandu is an software engineer fresher expertise in building dynamic web
+        applications using React.js, Node.js, Express.js, and MongoDB. Skilled
+        in developing scalable, responsive, and high-performance applications.
+        Passionate about writing clean code and optimizing user experience."
         ></meta>
         <meta name="keywords" content="Frontend, FullStack Javascript" />
-        <meta name="author" content="Avinash DV" />
+        <meta name="author" content="Chandu" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
